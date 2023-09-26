@@ -1,2 +1,14 @@
-
+.class{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.item item-1{
+	justify-content:center;
+	flex-wrap:wrap;
+	width:100px;
+	height:100px;
+	background-color:red;
+	align-item:center;
+}
 /* Your CSS Code here. */
